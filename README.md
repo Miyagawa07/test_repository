@@ -1,0 +1,2 @@
+# test_repository
+VSCodeとの連携を確認するためのリモートリポジトリ
